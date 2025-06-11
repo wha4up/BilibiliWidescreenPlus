@@ -1,1 +1,1 @@
-# BilibiliWidescreenPlus
+# B站宽屏+
